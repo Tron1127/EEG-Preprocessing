@@ -7,9 +7,9 @@
 
 2. Intercept front and back segments to run ICA
 
-3.1 ICLabel assisted ICA culling (automatic)
+3A ICLabel assisted ICA culling (automatic)
   
-3.2 ICLabel assisted ICA culling (manual) 128 data 
+3B ICLabel assisted ICA culling (manual) 128 data 
 
 4. Create Eventlist, baseline corrections based on binlister segments
 
