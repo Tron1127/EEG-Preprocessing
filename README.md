@@ -2,9 +2,15 @@
 
 # Including All Preprocessing Steps： 
 
-  1.  导入滤波剔电极重参考  
-  2. 截取前后段跑ICA
-  3.1 ICLabel辅助ICA剔除（自动）
- 3.2 ICLabel辅助ICA剔除(手动) 128 data - 1-2 天之前
-  4. 创建Eventlist，根据binlister分段基线校正 2h
-  5.  尾迹检测和识别 2 rounds of artifact detection
+ 
+1. Import Filter Tick Electrode Re-Reference
+
+2. Intercept front and back segments to run ICA
+
+3.1 ICLabel assisted ICA culling (automatic)
+  
+3.2 ICLabel assisted ICA culling (manual) 128 data 
+
+4. Create Eventlist, baseline corrections based on binlister segments
+
+5. tail detection and identification 2 rounds of artifact detection
